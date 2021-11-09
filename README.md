@@ -16,3 +16,5 @@ To request the weather in the desired city, you need to choose which parameter t
 
 
 ![demo](./all/1.png)
+
+While Russian city strings are supported.
