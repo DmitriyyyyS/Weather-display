@@ -15,4 +15,4 @@ Your city    -w
 To request the weather in the desired city, you need to choose which parameter to display, for example -t then we feed our city 'Kiev' and add -w at the end.
 
 
-![demo](./all/p/1.png)
+![demo](./all/1.png)
